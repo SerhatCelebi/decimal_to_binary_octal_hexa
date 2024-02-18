@@ -1,4 +1,4 @@
-/* Serhat Kamilcelebi 170106109047 */
+/* Serhat Kamilcelebi*/
 #include <stdio.h>
 #include <stdlib.h>
 
